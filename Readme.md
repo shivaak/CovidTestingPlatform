@@ -34,6 +34,3 @@ Any unique id generation scheme can be used to uniquely identify users or testin
 Platform need not maintain state for any user who already has a test kit successfully assigned. Only the current state of kits in a testing centre and the waiting list need to be maintained.
 Distance between centres and users is the euclidean distance between their 2D coordinates: sqrt(pow(x2-x1, 2) + pow(y2-y1, 2))
 
-
-Question Author: ankurjain.v
-Reach out to me if you find inaccuracies or have suggestions to improve this question.
